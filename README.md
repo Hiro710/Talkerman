@@ -7,6 +7,8 @@ This app for Chat application.
 - Rails : 5.2.3
 
 ## Get Started
+↓ Terminal used
+
 git clone [This repository URL]
 
 rails db:migrate
